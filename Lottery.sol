@@ -11,7 +11,8 @@ contract Lottery{
     } 
 
     receive() external payable {
-        require(msg.value == 50000000000000000, "You need to pay 1 ETH to buy a ticket!");
+        require(msg.value == 50000000000000000, "You need to pay 0.05 ETH to buy a ticket!");
+        // Price of ticket = 0.05 ETH, any transaction to contract less than that is failed
         participants.push(payable(msg.sender));
         // msg.sender by-default has type 'address', to make sure we can transfer 
         // winning amount to this address later, we make it 'address payable' type
