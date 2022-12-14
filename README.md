@@ -9,7 +9,7 @@ This repository contains all the smart contracts I have written while learning s
 - [My profile picture as NFT](https://github.com/uday03meh/profilePictureNFT)
 - [BuyMeACoffee](https://github.com/uday03meh/smart-contracts/blob/main/BuyMeACoffee.sol)
 - [Todo List](https://github.com/uday03meh/smart-contracts/blob/main/ToDoList.sol)
-
+- [ToDoList2](https://github.com/uday03meh/smart-contracts/blob/main/ToDoList.sol)
 
 ## Deployed Smart Contracts Links (using Goerli)
 
@@ -18,3 +18,4 @@ This repository contains all the smart contracts I have written while learning s
 - [My profile picture as NFT](https://goerli.etherscan.io/address/0x3964df30402799b07ed37fed60c83ad250943a9f)
 - [BuyMeACoffee](https://goerli.etherscan.io/address/0x674B7348d14B4d4874A88E617B3Bf7e37b8f76e1)
 - [Todo List](#)
+- [ToDoList2](#)
